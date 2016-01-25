@@ -1,0 +1,1 @@
+Mon projet est de terminer ce cours sur github, ce qui me prend bien plus que les 6 heures annoncées, et obtenir mon certificat d'intégrateur web ! YOUPI
