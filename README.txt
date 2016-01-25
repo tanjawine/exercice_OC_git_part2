@@ -1,1 +1,2 @@
-Mon projet est de terminer ce cours sur github, ce qui me prend bien plus que les 6 heures annoncées, et obtenir mon certificat d'intégrateur web ! YOUPI
+Mon projet est de terminer ce cours sur github, ce qui me prend bien plus que les 6 heures annonc√©es, et obtenir mon certificat d'int√©grateur web ! YOUPI....
+et enfin je modifie directement sur le site de github les cracat√®res du REDAME.txt qui ne s'affichent pas correctement depuis textedit
